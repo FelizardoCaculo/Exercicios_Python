@@ -1,0 +1,150 @@
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/inspectionProfiles/profiles_settings.xml	(date 1586612245937)
++++ .idea/inspectionProfiles/profiles_settings.xml	(date 1586612245937)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: Aula07-Operadores_atritmeticos/ex009 - Tabuada.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Aula07-Operadores_atritmeticos/ex009 - Tabuada.py	(date 1586816982577)
++++ Aula07-Operadores_atritmeticos/ex009 - Tabuada.py	(date 1586816982577)
+@@ -0,0 +1,33 @@
++"""
++ex009 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
++"""
++print('Para calcular a tabuada ... ...')
++number = int(input('Digite um número: '))
++print()
++print('=' * 13)
++print(f'{number:02} x { 1:02} = {number *  1:02}')
++print(f'{number:02} x { 2:02} = {number *  2:02}')
++print(f'{number:02} x { 3:02} = {number *  3:02}')
++print(f'{number:02} x { 4:02} = {number *  4:02}')
++print(f'{number:02} x { 5:02} = {number *  5:02}')
++print(f'{number:02} x { 6:02} = {number *  6:02}')
++print(f'{number:02} x { 7:02} = {number *  7:02}')
++print(f'{number:02} x { 8:02} = {number *  8:02}')
++print(f'{number:02} x { 9:02} = {number *  9:02}')
++print(f'{number:02} x {10:02} = {number * 10:02}')
++print(f'{number:02} x {11:02} = {number * 11:02}')
++print(f'{number:02} x {12:02} = {number * 12:02}')
++print('=' * 13)
++
++
++# Resolvendo com o laço for
++"""
++print('Para calcular a tabuada ... ...')
++number = int(input('Digite um número: '))
++print()
++print('=' * 13)
++for c in range(1, 13):
++    print(f'{number:02} x {c:02} = {number * c:02}')
++print('=' * 13)
++
++"""
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1586612245877)
++++ .idea/misc.xml	(date 1586612245877)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (venv) (7)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1586811987057)
++++ .idea/.gitignore	(date 1586811987057)
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py	(date 1586820054677)
++++ Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py	(date 1586820054677)
+@@ -0,0 +1,8 @@
++"""
++ex010 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares ela pode comprar.
++"""
++kwanza = float(input('Digite o valor em Kwanzas: '))
++exchange_rate_dollar = float(input('Qual é o câmbio em dolar: '))
++currency_convertor = kwanza / exchange_rate_dollar
++print()
++print(f'Com o valor AKZ {kwanza:.2f}, voce pode comprar USD {currency_convertor:.2f}')
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1586612245907)
++++ .idea/modules.xml	(date 1586612245907)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios_Python.iml" filepath="$PROJECT_DIR$/.idea/Exercicios_Python.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/Exercicios_Python.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/Exercicios_Python.iml	(date 1586612245812)
++++ .idea/Exercicios_Python.iml	(date 1586612245812)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1586811990796)
++++ .idea/vcs.xml	(date 1586811990796)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+diff --git Aula07-Operadores_atritmeticos/ex011 - Pintando_parede.py Aula07-Operadores_atritmeticos/ex011 - Pintando_parede.py
+new file mode 100644
