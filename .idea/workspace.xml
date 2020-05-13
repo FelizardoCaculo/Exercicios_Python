@@ -17,16 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17b28f79-ccf1-4f30-98cd-07291aab88cf" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex011 - Pintando_parede.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex012 - Calculando_descontos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex013 - Reajuste_salarial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex014 - Conversor_de_temperatura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Exercicios_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/ex009___Tabuada.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/ex009___Tabuada.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex014 - Conversor_de_temperatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex014 - Conversor_de_temperatura.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586821612581</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1589346943158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589346943158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,22 +291,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589176290096" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589345969135">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589347398178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1589345969135">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589347398178" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1589347398178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1589345969135">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589347398178" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1589347398178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1589345969135">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589347398178" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1589347398178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589347398178" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1589176335441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -316,9 +315,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586811891050" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586821735747">
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589347384975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586821735747" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589347384975" />
   </component>
 </project>
