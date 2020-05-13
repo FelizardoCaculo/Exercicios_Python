@@ -17,7 +17,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17b28f79-ccf1-4f30-98cd-07291aab88cf" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex011 - Pintando_parede.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex012 - Calculando_descontos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex013 - Reajuste_salarial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex014 - Conversor_de_temperatura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/ex009___Tabuada.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/ex009___Tabuada.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex010 - Conversor_de_moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +45,25 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1aOfilSEsLfP71Ki8mJPN4umzoL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Felizardo Caculo\Desktop\My Python Projects\Exercicios_Python\Aula06-Tipos_primitivos_&amp;_Saída_de_dados" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex009 - Tabuada">
+  <component name="RunManager" selected="Python.ex014 - Conversor_de_temperatura">
     <configuration name="ex008 - Conversor_de_medidas" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Exercicios_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,15 +106,106 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex011 - Pintando_parede" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex011 - Pintando_parede.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex012 - Calculando_descontos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex012 - Calculando_descontos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex013 - Reajuste_salarial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex013 - Reajuste_salarial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex014 - Conversor_de_temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula07-Operadores_atritmeticos/ex014 - Conversor_de_temperatura.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex007 - Media_aritmetica" />
       <item itemvalue="Python.ex009 - Tabuada" />
       <item itemvalue="Python.ex010 - Conversor_de_moeda" />
       <item itemvalue="Python.ex008 - Conversor_de_medidas" />
+      <item itemvalue="Python.ex011 - Pintando_parede" />
+      <item itemvalue="Python.ex012 - Calculando_descontos" />
+      <item itemvalue="Python.ex013 - Reajuste_salarial" />
+      <item itemvalue="Python.ex014 - Conversor_de_temperatura" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex007 - Media_aritmetica" />
+        <item itemvalue="Python.ex014 - Conversor_de_temperatura" />
+        <item itemvalue="Python.ex012 - Calculando_descontos" />
+        <item itemvalue="Python.ex013 - Reajuste_salarial" />
+        <item itemvalue="Python.ex011 - Pintando_parede" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +253,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
@@ -183,22 +288,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="119" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586821194774" />
-    <state width="662" height="223" key="GridCell.Tab.0.bottom" timestamp="1586820448523">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1589176290096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="662" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586820448523" />
-    <state width="662" height="223" key="GridCell.Tab.0.center" timestamp="1586820448523">
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589176290096" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589345969135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="662" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586820448523" />
-    <state width="662" height="223" key="GridCell.Tab.0.left" timestamp="1586820448519">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1589345969135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="662" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586820448519" />
-    <state width="662" height="223" key="GridCell.Tab.0.right" timestamp="1586820448523">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1589345969135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="662" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586820448523" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1589345969135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589345969135" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1589176335441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589176335441" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586811891050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
